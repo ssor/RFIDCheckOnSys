@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<nsConfig>
+  <config>
+    <key>comportName</key>
+    <value>COM25</value>
+  </config>
+  <config>
+    <key>baudRate</key>
+    <value>57600</value>
+  </config>
+  <config>
+    <key>tcp_port</key>
+    <value>13000</value>
+  </config>
+</nsConfig>
